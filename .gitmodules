@@ -1,0 +1,15 @@
+[submodule "dsl_descriptor"]
+	path = dsl_descriptor
+	url = https://github.com/ngspipes2/dsl_descriptor.git
+[submodule "dsl_parser"]
+	path = dsl_parser
+	url = https://github.com/ngspipes2/dsl_parser.git
+[submodule "dsl_pipeline"]
+	path = dsl_pipeline
+	url = https://github.com/ngspipes2/dsl_pipeline.git
+[submodule "dsl_tool_repository"]
+	path = dsl_tool_repository
+	url = https://github.com/ngspipes2/dsl_tool_repository.git
+[submodule "dsl_pipeline_repository"]
+	path = dsl_pipeline_repository
+	url = https://github.com/ngspipes2/dsl_pipeline_repository.git
