@@ -7,3 +7,9 @@
 [submodule "dsl_pipeline_repository"]
 	path = dsl_pipeline_repository
 	url = https://github.com/ngspipes2/dsl_pipeline_repository.git
+[submodule "dsl_tool_descriptor"]
+	path = dsl_tool_descriptor
+	url = https://github.com/ngspipes2/dsl_tool_descriptor.git
+[submodule "dsl_pipeline_descriptor"]
+	path = dsl_pipeline_descriptor
+	url = https://github.com/ngspipes2/dsl_pipeline_descriptor.git
