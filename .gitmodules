@@ -13,3 +13,6 @@
 [submodule "dsl_pipeline_descriptor"]
 	path = dsl_pipeline_descriptor
 	url = https://github.com/ngspipes2/dsl_pipeline_descriptor.git
+[submodule "dsl_core"]
+	path = dsl_core
+	url = https://github.com/ngspipes2/dsl_core.git
